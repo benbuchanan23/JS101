@@ -1,0 +1,7 @@
+{
+"welcome": "Welcome to the Calculator!",
+"invalidNumber": "That is an invalid number, please enter a real number, ya filthy   animal.",
+"operation": "What operation would you like to perform?\n 1) add\n 2) subtract\n 3) multiply\n 4) divide",
+"another": "Would you like to perform another operation? (y/n)",
+"endGame": "Thank you for Playing!"
+}
